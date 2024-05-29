@@ -1,6 +1,7 @@
 # TenorGrabber
 Tired of /view links on tenor? This python library allows you to get the direct link of the GIF!
 Useful for discord/guilded bots to grab a tenor gif link and embed it
+<br>
 Usage:
 ```
 from TenorGrabber import tenorgrabber
