@@ -6,7 +6,6 @@ setup(
     name='TenorGrabber',
     packages=find_packages(),
     version='1.0.4',
-    description='Tired of /view links on tenor? This python library allows you to get the direct link of the GIF!',
     author='user0',
     description='Get the direct link to a tenor GIF on python3!',
     install_requires=[
