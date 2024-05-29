@@ -8,7 +8,7 @@ setup(
     version='1.0.1',
     description='Tired of /view links on tenor? This python library allows you to get the direct link of the GIF!',
     author='user0',
-    install_reqs=[
+    install_requires=[
     'requests'
     ],
     long_description=long_description,
