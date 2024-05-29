@@ -1,6 +1,7 @@
 from setuptools import find_packages, setup
-long_description = (this_directory / "README.md").read_text()
 from pathlib import Path
+long_description = (this_directory / "README.md").read_text()
+this_directory = Path(__file__).parent
 setup(
     name='TenorGrabber',
     packages=find_packages(),
