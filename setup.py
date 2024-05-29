@@ -5,7 +5,7 @@ long_description = (this_directory / "README.md").read_text()
 setup(
     name='TenorGrabber',
     packages=find_packages(),
-    version='0.9.1',
+    version='1.0.0',
     description='Tired of /view links on tenor? This python library allows you to get the direct link of the GIF!',
     author='user0',
     long_description=long_description,
